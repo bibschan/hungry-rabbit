@@ -122,6 +122,6 @@ let matrix =
     [1, 5, 3, 5, 6, 1]];
 
 // number of times the bunny might eat
-let t = 17;
+let t = 10;
 
 eatCarrots(matrix, t);
