@@ -1,0 +1,22 @@
+.row{
+    width: 100%;
+    background-color: green;
+}
+
+.col {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.pika {
+    background-image: url('./assets/pika.png');
+}
